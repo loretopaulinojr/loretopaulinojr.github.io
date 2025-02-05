@@ -1,6 +1,7 @@
-title: "Loreto Paulino Jr."
+title: "Chemist and Arctic Explorer"
 author: "Loreto Paulino Jr."
-description: "Paulino" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+description: "From Guam, to the Arctic, to Boston—studying microbes, the ocean, and the unseen chemistry shaping our planet."
+" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
@@ -10,7 +11,7 @@ email: "lpaulino@bu.edu"
 linkedin_username: "loretopaulinojr"
 #facebook_username: username
 #flickr_username: username
-#instagram_username: username
+instagram_username: loretopaulinojr
 #pinterest_username: username
 #youtube_username: username
 #googleplus_username: +username
@@ -18,7 +19,7 @@ linkedin_username: "loretopaulinojr"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima"
+remote_theme: "mmistakes/minimal-mistakes"
 
 rss: rss
 
