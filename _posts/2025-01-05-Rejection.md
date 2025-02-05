@@ -1,6 +1,7 @@
-## Graduate School Application: Reap What you Sow (ongoing post)
+## Graduate School Applications: You Reap What You Sow (Ongoing)
 
-I finished submiting 7 college application around the month of December 31,2025. 
+
+7 college applications. Updates from 2/7
 ---
 
 ### First Admission
