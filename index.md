@@ -4,4 +4,5 @@ Maybe say a some things about yourself.
 
 Or maybe what you plan to blog about.
 
-![PhotofromGuam](assets/PhotogromGuam.jpeg)
+<img src="assets/PhotogromGuam.jpeg" alt="PhotogromGuam" width="300">
+
