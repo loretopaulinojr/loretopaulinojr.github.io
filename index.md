@@ -1,7 +1,9 @@
 # About Me  
 
-<img src="assets/PhotogromGuam.jpeg" alt="PhotogromGuam" width="300">
-
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img src="assets/PhotogromGuam.jpeg" alt="PhotogromGuam" width="300">
+    <img src="assets/Award.JPG" alt="AnotherPhoto" width="300">
+</div>
 Hi, I'm **Loreto Paulino Jr**, a researcher exploring the intricate connections between microbial networks and ocean biogeochemistry. My current work focuses on understanding how marine heterotrophic bacteria produce dissolved organic matter, utilizing a probabilistic method to estimate for a producibility metric. 
 
 I have a background in **chemistry and mathematics**, and my research integrates computational modeling, microbial ecology, and experimental approaches to study oceanic microbial communities. I am currently investigating how different metabolic pathways influence the persistence of organic matter in the deep ocean, using tools such as percolation theory and functional genomics.
