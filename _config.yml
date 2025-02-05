@@ -19,7 +19,7 @@ instagram_username: loretopaulinojr
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima"
+remote_theme: "mmistakes/minimal-mistakes"
 
 rss: rss
 
