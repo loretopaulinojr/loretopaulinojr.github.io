@@ -47,15 +47,15 @@ hr {
 /* ===== Force Update Colors ===== */
 :root {
   --deep-ocean-blue: #005f73;
-  --teal-blue: #005c96;
-  --soft-sky-blue: #0a3556;
-  --muted-coral: #9179a7;
-  --cool-light-gray: #c5dff9;
+  --alittledark-blue: #005c96;
+  --dark-sky-blue: #0a3556;
+  --muted-purple: #9179a7;
+  --cool-light-blue: #c5dff9;
 }
 
 /* Ensure body background updates */
 body, .container, .post-content, .post-header {
-  background-color: var(--cool-light-gray) !important;
+  background-color: var(--cool-light-blue) !important;
   color: #333 !important;
 }
 
@@ -69,33 +69,33 @@ body, .container, .post-content, .post-header {
 
 /* Update title */
 .post-title {
-  color: var(--teal-blue) !important;
+  color: var(--alittledark-blue) !important;
   font-weight: bold !important;
 }
 
 /* Update navigation */
 .post_navi .post_navi-item {
-  color: var(--teal-blue) !important;
+  color: var(--alittledark-blue) !important;
 }
 
 .post_navi .post_navi-arrow {
-  color: var(--soft-sky-blue) !important;
+  color: var(--dark-sky-blue) !important;
 }
 
 /* Update links */
 a {
-  color: var(--teal-blue) !important;
+  color: var(--alittledark-blue) !important;
   text-decoration: none !important;
 }
 
 a:hover {
-  color: var(--muted-coral) !important;
+  color: var(--muted-purple) !important;
   text-decoration: underline !important;
 }
 
 /* Update buttons */
 button {
-  background-color: var(--teal-blue) !important;
+  background-color: var(--alittledark-blue) !important;
   color: white !important;
   padding: 10px 15px !important;
   border: none !important;
@@ -119,7 +119,7 @@ p, span, h1, h2, h3, h4, h5, h6 {
 
 /* Fix horizontal rule */
 hr {
-  border: 1px solid var(--soft-sky-blue) !important;
+  border: 1px solid var(--dark-sky-blue) !important;
   margin-top: 30px !important;
   margin-bottom: 20px !important;
 }
