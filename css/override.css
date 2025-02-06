@@ -46,7 +46,7 @@ hr {
 
 /* ===== Force Update Colors ===== */
 :root {
-  --deep-ocean-blue: #005f73;
+  --deep-ocean-white: #ffffff;
   --alittledark-blue: #005c96;
   --dark-sky-white: #ffffff;
   --muted-purple: #9179a7;
@@ -61,7 +61,7 @@ body, .container, .post-content, .post-header {
 
 /* Update header background */
 .post-header {
-  background-color: var(--deep-ocean-blue) !important;
+  background-color: var(--deep-ocean-white) !important;
   color: white !important;
   padding: 15px;
   border-radius: 5px;
