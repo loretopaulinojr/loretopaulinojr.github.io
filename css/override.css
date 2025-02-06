@@ -44,20 +44,20 @@ hr {
   opacity: 0.3;
 }
 
-/* ===== Custom Color Palette ===== */
+/* ===== Custom Color Palette (No Ugly Yellow) ===== */
 :root {
   --deep-ocean-blue: #005f73;
   --teal-blue: #0a9396;
   --soft-sky-blue: #94d2bd;
-  --muted-sand: #ee9b00;
-  --soft-warm-white: #fdfcdc;
+  --muted-coral: #e07a5f;
+  --cool-light-gray: #f8f9fa;
 }
 
 /* ===== Apply Colors ===== */
 
 /* Background and General Text */
 body {
-  background-color: var(--soft-warm-white);
+  background-color: var(--cool-light-gray);
   color: #333; /* Dark gray for readability */
 }
 
@@ -71,7 +71,7 @@ body {
 
 /* Post Title */
 .post-title {
-  color: var(--muted-sand);
+  color: var(--teal-blue);
   font-weight: bold;
 }
 
@@ -91,7 +91,7 @@ a {
 }
 
 a:hover {
-  color: var(--muted-sand);
+  color: var(--muted-coral); /* Coral for a warm, elegant effect */
   text-decoration: underline;
 }
 
@@ -103,6 +103,7 @@ button {
   border: none;
   border-radius: 5px;
   cursor: pointer;
+  transition: 0.3s ease-in-out;
 }
 
 button:hover {
@@ -111,7 +112,7 @@ button:hover {
 
 /* Horizontal Rule */
 hr {
-  border: 1px solid var(--muted-sand);
+  border: 1px solid var(--soft-sky-blue);
   margin-top: 30px;
   margin-bottom: 20px;
 }
