@@ -8,23 +8,30 @@ Hi, I'm **Loreto Paulino Jr.**, a researcher exploring the intricate connections
 
 I have a background in **chemistry and mathematics**, and my research integrates computational modeling, microbial ecology, and experimental approaches to study oceanic microbial communities. One of my current work focuses on understanding how marine heterotrophic bacteria produce dissolved organic matter, utilizing a probabilistic method to estimate for a producibility metric. 
 
-## Experiences 
-My research journey has taken me from **Guam to Boston, Bermuda, Alaska, and Rhode Island**, through various fellowships and fieldwork experiences. I have worked on marine microbial metabolism, per- and polyfluoroalkyl substance (PFAS) accumulation, coral resilience modeling, and oceanographic field research.
 ---
+
+## Experiences 
+
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <img src="assets/helicopter.JPG" alt="heli" width="300">
-    <img src="assets/IMG_7425.JPG" alt="helps" width="300">
+    <img src="assets/IMG_7425.JPG" alt="helps" width="200">
     <img src="assets/Extra.jpg" alt="Extra" width="300">
 </div>
+My research journey has taken me from **Guam to Boston, Bermuda, Alaska, and Rhode Island**, through various fellowships and fieldwork experiences. I have worked on marine microbial metabolism, per- and polyfluoroalkyl substance (PFAS) accumulation, coral resilience modeling, and oceanographic field research.
+
+---
 
 ## Media Features: Sharing My Story
-Being featured in the media has given me an opportunity to share my journey, research, and the broader impact of my work. Each of these moments represents a milestone—whether it’s discussing my scientific contributions, advocating for underrepresented voices in academia, or reflecting on my experiences as a researcher from Guam.
+
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <img src="assets/CEN.jpg" alt="CEN" width="300">
     <img src="assets/PDN.jpg" alt="PDN" width="300">
     <img src="assets/CNAS.jpg" alt="CNAS" width="300">
 </div>
 
+Being featured in the media has given me an opportunity to share my journey, research, and the broader impact of my work. Each of these moments represents a milestone—whether it’s discussing my scientific contributions, advocating for underrepresented voices in academia, or reflecting on my experiences as a researcher from Guam.
+
+---
 
 ## What to Expect from This Blog  
 
@@ -41,3 +48,4 @@ I created this blog  on February 5, 2025. I will make this blog a space where I 
 
 If you're interested in microbial ecology, computational biology, or just want to follow along with my research, feel free to connect!  
 
+---
