@@ -1,8 +1,8 @@
 # About Me  
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="assets/PhotogromGuam.jpeg" alt="PhotogromGuam" width="300">
-    <img src="assets/Award.JPG" alt="AnotherPhoto" width="300">
+    <img src="assets/PhotogromGuam.jpeg" alt="PhotogromGuam" width="200">
+    <img src="assets/Award.JPG" alt="AnotherPhoto" width="250">
 </div>
 Hi, I'm **Loreto Paulino Jr.**, a researcher exploring the intricate connections between microbial networks and ocean biogeochemistry. 
 
@@ -44,7 +44,7 @@ If you're interested in microbial ecology, computational biology, or just want t
 ## Experiences 
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="assets/helicopter.JPG" alt="heli" width="300">
+    <img src="assets/BIOS.JPG" alt="heli" width="300">
     <img src="assets/IMG_7425.JPG" alt="helps" width="250">
     <img src="assets/Extra.jpg" alt="Extra" width="300">
 </div>
