@@ -46,7 +46,7 @@ hr {
 
 /* ===== Force Update Colors ===== */
 :root {
-  --deep-ocean-white: #ffffff;
+  --deep-white: #cce0e1;
   --alittledark-blue: #005c96;
   --dark-sky-white: #ffffff;
   --muted-purple: #9179a7;
@@ -61,7 +61,7 @@ body, .container, .post-content, .post-header {
 
 /* Update header background */
 .post-header {
-  background-color: var(--deep-ocean-white) !important;
+  background-color: var(--deep-white) !important;
   color: white !important;
   padding: 15px;
   border-radius: 5px;
@@ -104,7 +104,7 @@ button {
 }
 
 button:hover {
-  background-color: var(--deep-ocean-white) !important;
+  background-color: var(--deep-white) !important;
 }
 
 /* Force update text color */
