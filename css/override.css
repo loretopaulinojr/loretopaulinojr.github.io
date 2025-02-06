@@ -44,7 +44,7 @@ hr {
   opacity: 0.3;
 }
 
-/* ===== Force Update Colors ===== */
+/* Ensure the root variables are set */
 :root {
   --deep-white: #cce0e1;
   --alittledark-blue: #005c96;
@@ -53,36 +53,39 @@ hr {
   --cool-light-blue: #c5dff9;
 }
 
-/* Ensure body background updates */
+/* Apply background and text colors */
 body, .container, .post-content, .post-header {
   background-color: var(--cool-light-blue) !important;
   color: #333 !important;
 }
 
-/* Update header background */
-.post-header {
+/* Header */
+body .post-header {
   background-color: var(--deep-white) !important;
   color: white !important;
   padding: 15px;
   border-radius: 5px;
 }
 
-/* Update title */
-.post-title {
-  color: var(--alittledark-blue) !important;
-  font-weight: bold !important;
+/* Navigation */
+.post_navi {
+  display: flex;
 }
 
-/* Update navigation */
 .post_navi .post_navi-item {
+  padding: 0 2.2em;
+  width: 50%;
+  position: relative;
   color: var(--alittledark-blue) !important;
 }
 
 .post_navi .post_navi-arrow {
   color: var(--dark-sky-white) !important;
+  font-size: 2.5em;
+  opacity: 0.3;
 }
 
-/* Update links */
+/* Links */
 a {
   color: var(--alittledark-blue) !important;
   text-decoration: none !important;
@@ -93,7 +96,7 @@ a:hover {
   text-decoration: underline !important;
 }
 
-/* Update buttons */
+/* Buttons */
 button {
   background-color: var(--alittledark-blue) !important;
   color: white !important;
@@ -107,14 +110,9 @@ button:hover {
   background-color: var(--deep-white) !important;
 }
 
-/* Force update text color */
+/* Fix text color */
 p, span, h1, h2, h3, h4, h5, h6 {
   color: #333 !important;
-}
-
-/* Remove any old yellow color */
-* {
-  color: inherit !important;
 }
 
 /* Fix horizontal rule */
