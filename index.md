@@ -10,24 +10,12 @@ I have a background in **chemistry and mathematics**, and my research integrates
 
 ---
 
-## Experiences 
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="assets/helicopter.JPG" alt="heli" width="300">
-    <img src="assets/IMG_7425.JPG" alt="helps" width="250">
-    <img src="assets/Extra.jpg" alt="Extra" width="300">
-</div>
-My research journey has taken me from **Guam to Boston, Bermuda, Alaska, and Rhode Island**, through various fellowships and fieldwork experiences. I have worked on marine microbial metabolism, per- and polyfluoroalkyl substance (PFAS) accumulation, coral resilience modeling, and oceanographic field research.
-
----
-
-
 ## Media Features: Sharing My Story
 
 Being featured in the media has given me an opportunity to share my journey, research, and the broader impact of my work. Each of these moments represents a milestone—whether it’s discussing my scientific contributions, advocating for underrepresented voices in academia, or reflecting on my experiences as a researcher from Guam.
 
 ### Featured Articles
-- **[Chemical & Engineering News (C&EN)](https://cen.acs.org/environment/CEN-talks-Loreto-Paulino-chemist/102/i19)** – Featured for my work on microbial networks and ocean carbon cycling. Thank you C&EN for the Chemist and Arctic Explorer name!
+- **[Chemical & Engineering News (C&EN)](https://cen.acs.org/environment/CEN-talks-Loreto-Paulino-chemist/102/i19)** – Featured for my work done in Alaska. Thank you C&EN for the Chemist and Arctic Explorer name!
 - **[Pacific Daily News (PDN)](https://www.guampdn.com/news/uog-student-headed-to-arctic-to-assist-with-climate-change-research/article_b1e2cef6-d027-11ed-a3dc-a33310c981f9.html)** – Interview on my academic journey and the importance of representation in STEM.
 - **[CNAS Research Feature](https://www.uog.edu/schools-and-colleges/college-of-natural-and-applied-science/dive-into-cnas)** – Recognized for being elected to the Student Goverment Association as STEM major. Issue No 9. 
 
@@ -50,5 +38,16 @@ I created this blog  on February 5, 2025. I will make this blog a space where I 
 ## Stay Connected  
 
 If you're interested in microbial ecology, computational biology, or just want to follow along with my research, feel free to connect!  
+
+---
+
+## Experiences 
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img src="assets/helicopter.JPG" alt="heli" width="300">
+    <img src="assets/IMG_7425.JPG" alt="helps" width="250">
+    <img src="assets/Extra.jpg" alt="Extra" width="300">
+</div>
+My research journey has taken me from **Guam to Boston, Bermuda, Alaska, and Rhode Island**, through various fellowships and fieldwork experiences. I have worked on marine microbial metabolism, per- and polyfluoroalkyl substance (PFAS) accumulation, coral resilience modeling, and oceanographic field research.
 
 ---
