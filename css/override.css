@@ -44,7 +44,7 @@ hr {
   opacity: 0.3;
 }
 
-/* ===== Custom Color Palette (No Ugly Yellow) ===== */
+/* ===== Force Update Colors ===== */
 :root {
   --deep-ocean-blue: #005f73;
   --teal-blue: #005c96;
@@ -53,112 +53,73 @@ hr {
   --cool-light-gray: #c5dff9;
 }
 
-/* ===== Apply Colors ===== */
-
-/* Background and General Text */
-body {
-  background-color: var(--cool-light-gray);
-  color: #333; /* Dark gray for readability */
+/* Ensure body background updates */
+body, .container, .post-content, .post-header {
+  background-color: var(--cool-light-gray) !important;
+  color: #333 !important;
 }
 
-/* Header Styling */
+/* Update header background */
 .post-header {
-  background-color: var(--deep-ocean-blue);
-  color: white;
+  background-color: var(--deep-ocean-blue) !important;
+  color: white !important;
   padding: 15px;
   border-radius: 5px;
 }
 
-/* Post Title */
+/* Update title */
 .post-title {
-  color: var(--teal-blue);
-  font-weight: bold;
+  color: var(--teal-blue) !important;
+  font-weight: bold !important;
 }
 
-/* Navigation Styling */
+/* Update navigation */
 .post_navi .post_navi-item {
   color: var(--teal-blue) !important;
 }
 
 .post_navi .post_navi-arrow {
-  color: var(--soft-sky-blue);
+  color: var(--soft-sky-blue) !important;
 }
 
-/* Link Colors */
-a {
-  color: var(--teal-blue);
-  text-decoration: none;
-}
-
-a:hover {
-  color: var(--muted-coral); /* Coral for a warm, elegant effect */
-  text-decoration: underline;
-}
-
-/* Button Styling */
-button {
-  background-color: var(--teal-blue);
-  color: white;
-  padding: 10px 15px;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  transition: 0.3s ease-in-out;
-}
-
-button:hover {
-  background-color: var(--deep-ocean-blue);
-}
-
-/* Horizontal Rule */
-hr {
-  border: 1px solid var(--soft-sky-blue);
-  margin-top: 30px;
-  margin-bottom: 20px;
-}
-
-/* ===== Force Remove Yellow ===== */
-* {
-  color: inherit !important;
-}
-
-/* Fix post title */
-.post-title {
-  color: var(--teal-blue) !important;
-}
-
-/* Fix links */
+/* Update links */
 a {
   color: var(--teal-blue) !important;
+  text-decoration: none !important;
 }
 
 a:hover {
   color: var(--muted-coral) !important;
+  text-decoration: underline !important;
 }
 
-/* Fix any weird text that is still yellow */
-p, span, h1, h2, h3, h4, h5, h6 {
-  color: #333 !important;
-}
-
-/* Fix buttons */
+/* Update buttons */
 button {
   background-color: var(--teal-blue) !important;
   color: white !important;
+  padding: 10px 15px !important;
+  border: none !important;
+  border-radius: 5px !important;
+  cursor: pointer !important;
 }
 
 button:hover {
   background-color: var(--deep-ocean-blue) !important;
 }
 
-/* Fix background if yellow appears somewhere */
-body, .container, .post-content, .post-header {
-  background-color: var(--cool-light-gray) !important;
+/* Force update text color */
+p, span, h1, h2, h3, h4, h5, h6 {
+  color: #333 !important;
 }
 
-/* Fix navigation */
-.post_navi .post_navi-item {
-  color: var(--teal-blue) !important;
+/* Remove any old yellow color */
+* {
+  color: inherit !important;
 }
 
-
+/* Fix horizontal rule */
+hr {
+  border: 1px solid var(--soft-sky-blue) !important;
+  margin-top: 30px !important;
+  margin-bottom: 20px !important;
+}
