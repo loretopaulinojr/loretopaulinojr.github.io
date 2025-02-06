@@ -44,7 +44,7 @@ If you're interested in microbial ecology, computational biology, or just want t
 ## Experiences 
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="assets/BIOS.JPG" alt="heli" width="300">
+    <img src="assets/BIOS.JPG" alt="heli" width="250">
     <img src="assets/IMG_7425.JPG" alt="helps" width="250">
     <img src="assets/Extra.jpg" alt="Extra" width="300">
 </div>
