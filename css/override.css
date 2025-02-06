@@ -43,3 +43,75 @@ hr {
   font-size: 2.5em;
   opacity: 0.3;
 }
+
+/* ===== Custom Color Palette ===== */
+:root {
+  --deep-ocean-blue: #005f73;
+  --teal-blue: #0a9396;
+  --soft-sky-blue: #94d2bd;
+  --muted-sand: #ee9b00;
+  --soft-warm-white: #fdfcdc;
+}
+
+/* ===== Apply Colors ===== */
+
+/* Background and General Text */
+body {
+  background-color: var(--soft-warm-white);
+  color: #333; /* Dark gray for readability */
+}
+
+/* Header Styling */
+.post-header {
+  background-color: var(--deep-ocean-blue);
+  color: white;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+/* Post Title */
+.post-title {
+  color: var(--muted-sand);
+  font-weight: bold;
+}
+
+/* Navigation Styling */
+.post_navi .post_navi-item {
+  color: var(--teal-blue) !important;
+}
+
+.post_navi .post_navi-arrow {
+  color: var(--soft-sky-blue);
+}
+
+/* Link Colors */
+a {
+  color: var(--teal-blue);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--muted-sand);
+  text-decoration: underline;
+}
+
+/* Button Styling */
+button {
+  background-color: var(--teal-blue);
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: var(--deep-ocean-blue);
+}
+
+/* Horizontal Rule */
+hr {
+  border: 1px solid var(--muted-sand);
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
