@@ -47,10 +47,10 @@ hr {
 /* ===== Custom Color Palette (No Ugly Yellow) ===== */
 :root {
   --deep-ocean-blue: #005f73;
-  --teal-blue: #0a9396;
-  --soft-sky-blue: #94d2bd;
-  --muted-coral: #e07a5f;
-  --cool-light-gray: #97c4f1;
+  --teal-blue: #005c96;
+  --soft-sky-blue: #0a3556;
+  --muted-coral: #9179a7;
+  --cool-light-gray: #c5dff9;
 }
 
 /* ===== Apply Colors ===== */
