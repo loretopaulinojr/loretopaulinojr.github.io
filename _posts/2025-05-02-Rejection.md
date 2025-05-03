@@ -1,9 +1,16 @@
-## Graduate School Applications: You Reap What You Sow
+## 🎓 Graduate School Applications: You Reap What You Sow
 
+7 college applications.  
+4 **Rejections**.  
+3 **Offers**.  
+1 **Interview**.  
+1 fellowship application.  
+1 **Life-changing offer**.  
 
-7 college applications. 4 Rejections. 3 Offers. 1 Interview.
-1 fellowship application. 1 offer. 
+### 📌 Disclaimer:
+This post reflects my personal journey applying to graduate school and is meant to share lessons, encouragement, and honest reflection. All opinions are my own. I have deep respect for every institution and individual mentioned here — rejection is part of the process, and I’m grateful for what I learned along the way. If you’re applying, I hope this helps you feel less alone.
 
+---
 There are many ways to begin this blog, but to be organized, let’s put things in chronological order. On December 31, 2024, I submitted my last application, to the University of Rhode Island Graduate School of Oceanography, for their Biological Oceanography program. This was the third Biological Oceanography program I applied to, along with Woods Hole Oceanographic Institution and the University of California, San Diego (Scripps Institution of Oceanography). The remaining schools I applied to were the University of Hawaii at Manoa, Oregon State University, Yale, and Boston University.
 
 After I submitted all my applications, I remember that the number one school I wanted to attend was Yale. I applied to their Ecology and Evolutionary Biology program. I was really excited about Yale because I had a great meeting with a potential mentor whose research interests aligned with mine, and she was incredibly easy to talk to! As a research fellow at Boston University, I’d heard nothing but positive things about her from colleagues who had worked with her. Between that one meeting and the praise from her colleagues, it was hard not to imagine a future at Yale.
@@ -19,7 +26,7 @@ Getting rejected by BU really did a number on me. I remember feeling so embarras
 
 At this point, I was holding out hope for good news from Yale. Even though I hadn’t been invited to their Prospective Student Day, I was still optimistic. My very, very logical reasoning? The universe can’t possibly give me two rejections in the same month. Well... on February 9, 2025, I got rejected by Yale. Welp. I later got rejected by WHOI and UCSD. Great. 
 
-February was brutal for my mental health. On top of rejections, I got an unexpected update from UH Manoa, the mentor I applied to work with wasn’t actually part of the Microbiology program. That meant I’d either have to find a sponsor within Microbiology, convince my mentor to become a faculty member in that department, or switch to the Oceanography program. Fortunately, the graduate chair who reached out said I was a strong candidate and offered to help me navigate the situation.
+February was brutal for my mental health. On top of rejections, I got an unexpected update from UH Manoa, the mentor I applied to work with wasn’t actually part of the program I applied to. Fortunately, the facutly who reached out said I was a strong candidate and offered to help me navigate the situation.
 
 During this chaotic time, I met with the professor I applied to work with, numerous times. And every meeting just reinforced what a great mentor he was. He reminded me of a former mentor I had back in Guam, very laid-back and grounded. I loved that lab in Guam. It felt like a literal blessing that he had been reading the same papers I’d been obsessing over on dissolved organic matter. Our research interests definitely aligned.
 
@@ -36,4 +43,4 @@ I would have an amazing mentor, research I care deeply about, a strong community
 What about Oregon State University?
 Oh yeah... I got rejected around April 11, 2025.
 
-Long story short, after I informed them that I was an NSF recipient, an option opened up to join as a PhD student around the 15th. As tempting as it was to start the process, I never did. Because again, UH Manoa was the no-brainer.
+Long story short, after I informed them that I was an NSF recipient, an option opened up to join as a PhD student around the 15th. As tempting as it was to start the process, I never did. Because again, UH Manoa was the no-brainer. I decided not inform other schools, Yale, UCSD, BU, or WHOI about the recent award. For I knew I have made the right choice. 
