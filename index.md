@@ -3,7 +3,7 @@
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <img src="assets/loreto1.jpg" alt="PhotogromGuam" width="250">
 </div>
-Hi, I'm **Loreto Paulino Jr.**, a researcher exploring the intricate connections between microbial networks and ocean biogeochemistry. I am incoming Ph.d. student at the University of Hawaii at Manoa and an official 2025 
+Hi, I'm **Loreto Paulino Jr.**, a researcher exploring the intricate connections between microbial networks and ocean biogeochemistry. I am incoming Ph.d. student at the University of Hawaii at Manoa and an 2025 NSF Graduate Research Fellow. 
 
 I have a background in **chemistry and mathematics**, and my research integrates computational modeling, microbial ecology, and experimental approaches to study oceanic microbial communities. One of my current work focuses on understanding how marine heterotrophic bacteria produce dissolved organic matter, utilizing a probabilistic method to estimate for a producibility metric. 
 
