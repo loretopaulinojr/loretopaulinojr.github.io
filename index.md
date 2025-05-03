@@ -3,7 +3,7 @@
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <img src="assets/loreto1.jpg" alt="PhotogromGuam" width="250">
 </div>
-Hi, I'm Loreto, a researcher exploring the intricate connections between marine microbial networks and ocean biogeochemistry. I am an incoming Ph.d. student at the University of Hawaii at Manoa and an 2025 NSF Graduate Research Fellow. 
+Hi, I'm Loreto, a researcher exploring the intricate connections between marine microbial networks and ocean biogeochemistry. I am an incoming Ph.d. student at the University of Hawai'i at Manoa and an 2025 NSF Graduate Research Fellow. 
 
 I have a background in **chemistry and mathematics**, and my research integrates computational modeling, microbial processes, and experimental approaches to study oceanic microbial communities. One of my current work focuses on understanding how marine heterotrophic bacteria produce dissolved organic matter, utilizing a probabilistic method to estimate for a producibility metric. 
 
@@ -29,8 +29,9 @@ I started this blog on **February 5, 2025**, as a space to document my journey t
 
 - **Deep dives into marine microbiology** – explorations of microbial interactions, dissolved organic matter (DOM), and ocean biogeochemistry.  
 - **Computational tools in microbiome research** – thoughts on network analysis, metabolic modeling, and data-driven approaches.  
-- **Reflections on academia** – from applying to PhD programs to writing and navigating research as an early-career scientist.  
+- **Reflections on academia** – from applying to PhD programs to writing and navigating research as an early-career scientist.
 - **Personal stories & community engagement** – my experience as an ECR and my efforts to share knowledge with others in STEM.
+
 ---
 
 ## Stay Connected  
