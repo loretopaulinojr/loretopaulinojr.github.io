@@ -1,7 +1,7 @@
 # About Me  
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="assets/loreto1.jpeg" alt="loreto1" width="250">
+    <img src="assets/loreto1.jpg" alt="PhotogromGuam" width="250">
 </div>
 Hi, I'm **Loreto Paulino Jr.**, a researcher exploring the intricate connections between microbial networks and ocean biogeochemistry. I am incoming Ph.d. student at the University of Hawaii at Manoa and an official 2025 
 
