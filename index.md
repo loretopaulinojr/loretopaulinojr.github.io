@@ -1,7 +1,7 @@
 # Loreto Paulino Jr.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="assets/loreto1.jpg" alt="PhotogromGuam" width="250">
+    <img src="assets/helicopter.JPG" alt="PhotogromGuam" width="250">
 </div>
 Hi, I'm Loreto, a researcher exploring the intricate connections between marine microbial networks and ocean biogeochemistry. I am an incoming Ph.d. student at the University of Hawai'i at Manoa and an 2025 NSF Graduate Research Fellow. 
 
@@ -14,6 +14,7 @@ I have a background in **chemistry and mathematics**, and my research integrates
 Being featured in the media has given me an opportunity to share my journey, research, and the broader impact of my work. Each of these moments represents a milestone—whether it’s discussing my scientific contributions, highlighting multiple groups in academia, or reflecting on my experiences as a researcher from Guam.
 
 ### Featured Articles
+- **[Kuam News](https://www.instagram.com/reel/DJoT96dtzUd/)** – UOG alumn gets vocal in capitol hill as federal funding cuts blocks access to higher education
 - **[Chemical & Engineering News (C&EN)](https://cen.acs.org/environment/CEN-talks-Loreto-Paulino-chemist/102/i19)** – Featured for my work done in Alaska. Thank you C&EN for the Chemist and Arctic Explorer name!
 - **[Pacific Daily News (PDN)](https://www.guampdn.com/news/uog-student-headed-to-arctic-to-assist-with-climate-change-research/article_b1e2cef6-d027-11ed-a3dc-a33310c981f9.html)** – Interview on my academic journey.
 - **[CNAS Research Feature](https://www.uog.edu/schools-and-colleges/college-of-natural-and-applied-science/dive-into-cnas)** – Recognized for being elected to the Student Goverment Association as STEM major. Issue No 9. 
