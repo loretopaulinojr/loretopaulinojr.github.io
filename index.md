@@ -1,4 +1,4 @@
-# Loreto Paulino Jr..
+# Loreto Paulino Jr.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <img src="assets/helicopter.JPG" alt="PhotogromGuam" width="250">
